@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+world!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Ilya.</h1>
-<h3 align="center">I'm from Russia. At the moment I have finished my studies and am looking for a job as a java developer.</h3>
+<h3 align="center">I'm from Russia. At the moment I am looking for a job as a java developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilya162&label=Profile%20views&color=0e75b6&style=flat" alt="ilya162" /> </p>
 
