@@ -9,8 +9,8 @@
 
 
 <h3 align="left">Connect with me:
-  <p>dj-nfb@mail.ru</p>
-<p>https://t.me/Ilya_shtyrev</p></h3>
+  <p>ilya_shtiryov@mail.ru</p>
+<p>https://t.me/ilya_shtiryov</p></h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1200" height="400"/>
 </div>
